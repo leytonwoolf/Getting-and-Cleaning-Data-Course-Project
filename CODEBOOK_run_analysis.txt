@@ -1,0 +1,9 @@
+Wearalbes.1 Dataset
+
+4 Variables:
+ACTIVITY_CODE   : Activity of indivdiual measurement
+SUBJECT_ID      : Identification code of test subject
+MEASUREMENT     : Measurement that was averaged by activity, by subject
+MEAN		: Average of all measurements of giving activity by given subject in the data set
+
+MEAN variable was calculated by using mean() function within R.
